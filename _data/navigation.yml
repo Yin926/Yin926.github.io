@@ -7,7 +7,7 @@
   
 - title: 信息可视化作品
   url: /infovis/
-  excerpt: 图表分析
+  excerpt: 全国范围内四大琴行分布状况
   image: 信息可视化-琴行.jpg
   
 - title: 信息可视化小组专案
@@ -23,4 +23,4 @@
 - title: 信息可视化笔记
   url: /posts/infovis/
   excerpt: Tableau
-  image: 笔记.jpg   
+  image: 笔记.png   
