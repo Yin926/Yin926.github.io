@@ -37,7 +37,7 @@
   z-index: 20;
   box-sizing: border-box;
   &:hover {
-    background: $springgreen
+    background: $green;
   }
   transition: $sliding-menu-animation;
   &.slide {
@@ -144,7 +144,7 @@
     }
     a:hover .teaser {
       opacity: 1;
-      border: 3px solid $springgreen;
+      border: 3px solid $green;
     }
     .title {
       display: block;
@@ -164,11 +164,10 @@
       @include media($small) {
         margin-left: 170px;
         @include font-size(16,no);
-		color: $springgreen;
       }
     }
     .title:hover,.excerpt:hover,.teaser:hover{
-        color: $blue;
+        color: $green;
     }
   }
   .sub-menu-item > li a {
