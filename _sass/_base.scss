@@ -9,9 +9,9 @@
 body {
 	font-family: $base-font;
 	color: $text-color;
-	background-image:
-	  linear-gradient(rgba(230, 230, 250, 0.4), rgba(160, 32, 240, 0.2)),
-	  url('../images/oslRB.png');
+    background-image:
+      linear-gradient(rgba(230, 230, 250, 0.4), rgba(160, 32, 240, 0.2)), 
+      url('../images/oslRB.png');
 	@include font-size(16);
 }
 
