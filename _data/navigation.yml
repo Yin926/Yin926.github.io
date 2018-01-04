@@ -1,26 +1,21 @@
 # Site navigation links
 
-- title: 网页设计作品
+- title: 网页设计作品集
   url: /portfolio/
-  excerpt: 快乐大本营20周年庆
+  excerpt: 快乐大本营20周年
   image: 快乐大本营.jpg
   
-- title: 信息可视化作品
+- title: 信息可视化作品集
   url: /infovis/
   excerpt: 图表分析
-  image: 信息可视化-琴行.jpg
-  
-- title:信息可视化小组专案
-  url:/infovis/
-  excerpt:图表分析
   image: 图表.gif
   
 - title: 网页设计笔记
   url: /posts/rwd/
-  excerpt: "WSG4笔记 RWD2笔记"
-  image: 笔记.gif
+  excerpt: "WSG4笔记 RWD2笔记 纠错笔记"
+  image: 笔记.png
   
 - title: 信息可视化笔记
   url: /posts/infovis/
   excerpt: Tableau
-  image: 笔记.jpg   
+  image: 笔记.png   
