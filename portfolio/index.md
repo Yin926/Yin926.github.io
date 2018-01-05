@@ -12,7 +12,7 @@ image:
 
 
 <div class="tiles">
-{% for post in site.categories.portgolio %}
+{% for post in site.categories.web %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles 把所有categories 有 posts 的列出来-->
