@@ -3,7 +3,7 @@ layout: archive
 title: "网页设计笔记"
 date: 2018-1-1T14:25:45-04:00
 modified:
-excerpt: "我try一try "
+excerpt: ""
 tags: []
 image: 
   feature: notes.gif
