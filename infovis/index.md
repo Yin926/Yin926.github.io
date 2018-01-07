@@ -6,7 +6,7 @@ modified:
 excerpt: ""
 tags: []
 image: 
-  feature: 图表.gif
+  feature: 
   teaser:
 ---
 
