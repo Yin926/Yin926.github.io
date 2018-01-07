@@ -6,9 +6,10 @@ modified:
 excerpt: ""
 tags: []
 image: 
-  feature: 高德地图-琴行.png
+  feature: 高德地图-琴行.png  
            高德地图-加油站.png
-		   小组期中专案-住宿与餐饮业.png
+		   住宿与餐饮业.png	   
+  teaser:
 ---
 
 
