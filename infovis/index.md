@@ -10,7 +10,7 @@ image:
   teaser:
 ---
 
-<img src="/images/高德地图-琴行.png" height="500" width="400" />
+<img src="/images/高德地图-琴行.png" height="600" width="600" />
 <div class="tiles">
 {% for post in site.categories.infovis %}
   {% include post-grid.html %}
