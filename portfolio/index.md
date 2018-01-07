@@ -6,7 +6,7 @@ modified:
 excerpt: ""
 tags: []
 image: 
-  feature: 快本二十年.jpg
+  feature: 
   teaser:
 ---
 
