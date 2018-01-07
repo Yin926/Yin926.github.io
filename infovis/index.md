@@ -7,8 +7,7 @@ excerpt: ""
 tags: []
 image: 
   feature: 高德地图-琴行.png  
-           高德地图-加油站.png
-		   住宿与餐饮业.png	   
+           高德地图-加油站.png  
   teaser:
 ---
 
