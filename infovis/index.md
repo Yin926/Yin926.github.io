@@ -3,10 +3,10 @@ layout: archive
 title: "可视化作品集"
 date: 2018-1-1T14:25:45-04:00
 modified:
-excerpt: "加油加油"
+excerpt: ""
 tags: []
 image: 
-  feature: notes.gif
+  feature: 图表.gif
   teaser:
 ---
 
