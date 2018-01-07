@@ -6,11 +6,11 @@ modified:
 excerpt: ""
 tags: []
 image: 
-  feature: 高德地图-琴行.png  
+  feature: 
   teaser:
 ---
 
-<img src="/images/高德地图-琴行.png" height="200" width="200" />
+<img src="/images/高德地图-琴行.png" height="300" width="400" />
 <div class="tiles">
 {% for post in site.categories.infovis %}
   {% include post-grid.html %}
