@@ -11,6 +11,7 @@ image:
 ---
 
 <img src="/images/高德地图-琴行.png" height="600" width="600" />
+<div><a href="https://public.tableau.com/views/_18368/3?:embed=y&:display_count=yes&publish=yes"></a></div>
 <div class="tiles">
 {% for post in site.categories.infovis %}
   {% include post-grid.html %}
